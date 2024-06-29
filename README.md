@@ -259,6 +259,9 @@ self.essays, self.scores, self.features, self.tokenizer, self.max_len: These att
    - Early Stopping: Checks for early stopping and breaks the loop if triggered.
      
 - Plotting Validation Loss
+
+  <img width="531" alt="image" src="https://github.com/NattaQ/Automated-Essay-Scoring/assets/115794048/ec9751b8-5306-4550-900d-f5edc6336b87">
+
    - Plotting: Creates a plot of epoch numbers vs. validation loss.
    - Figure Settings: Sets the figure size.
    - Plot: Plots the validation losses with markers and lines.
